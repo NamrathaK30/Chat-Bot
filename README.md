@@ -25,3 +25,6 @@ A simple, interactive chatbot built to provide [describe purpose: e.g., customer
    ```bash
    git clone https://github.com/NamrathaK30/Chat-Bot.git
    cd Chat-Bot
+
+### AI Chat Bot
+http://127.0.0.1:5500/12.Ai%20ChatBot
